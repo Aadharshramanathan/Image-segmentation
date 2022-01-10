@@ -1,0 +1,16 @@
+E:.
+
+│
+├───cityscapes_data
+│	├───cityscapes_data
+│	   │   ├───train
+│	   │   └───val
+│	   ├───train
+│	   └───val
+└───models
+	│   cityscapes-image-segmentation-pspnet.ipynb
+    	│   image-segmentation-Deeplab.ipynb
+    	│   image-segmentation-Fast_scnn_.ipynb
+   	│   image-segmentation-cityscapes-fcn-keras.ipynb
+    	│   Image_Segmentation_using_UNET.ipynb
+    	
